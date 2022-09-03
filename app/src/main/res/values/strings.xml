@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fake Login</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="congratulations_on_your_login">Congratulations on your login!</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome %s!</string>
+</resources>
