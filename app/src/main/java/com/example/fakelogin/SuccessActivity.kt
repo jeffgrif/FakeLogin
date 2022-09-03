@@ -19,7 +19,7 @@ class SuccessActivity : AppCompatActivity() {
         // Get extra
         val name = intent.getStringExtra("name")
 
-        //
+        // Set the toptext in the UI to welcome the user by name
         topText.text = getString(R.string.welcome, name)
 
         // welcome the user with a toast
